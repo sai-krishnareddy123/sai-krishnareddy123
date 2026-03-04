@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**sai-krishnareddy123/sai-krishnareddy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sai Krishnareddy**, a Computer Science Engineering student based in India.
 
-Here are some ideas to get you started:
+I mostly work with **Java, Python, C, SQL, HTML, and CSS**. Strong in **Data Structures and OOP**, focused on building practical systems that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring **Software Engineering, AI-based systems, and Web Development**. Everything here is built from scratch as part of my learning journey.
+
+---
+
+### Tools & Tech
+
+- Java, Python, C  
+- SQL, MySQL  
+- HTML, CSS
+
+---
+
+### A Bit About Me
+
+- 🎓 B.Tech CSE (CGPA: 8.44)  
+- 🚀 Built a real-time suitable crop type based on soil moisture and type
+- 🌾 Developed a AI-Transmed :Detection ALzheimers Disease Detection Progression From Neuroimaging Data 
+- 📫 voladrisaikrishnareddy@gmail.com  
